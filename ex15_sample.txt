@@ -1,0 +1,9 @@
+	I love Ruby.
+
+	Ruby is dynamically typed, which means we don't have to declare the type of each
+variable at compilation.
+
+	Ruby is also a 'high-level' language. This means that it reads very much like English!
+
+	Finally, Ruby is a FUN language to use!
+

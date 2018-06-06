@@ -1,0 +1,7 @@
+This is just an example file for our 20th exercise in "Learn Ruby the Hard Way!"
+
+It's exciting how far we've come. As any Rubyist can attest, Ruby is a powerful - yet
+simple language.
+
+Can't wait to see where our Ruby adventure leads!
+
